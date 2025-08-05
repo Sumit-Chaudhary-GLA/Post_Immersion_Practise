@@ -1,4 +1,4 @@
-package Week1.Day6;
+package week2.Day1;
 
 public class Problem16 {
     public static int power(int x, int y) {

@@ -1,4 +1,4 @@
-package Week1.Day6;
+package week2.Day1;
 
 public class Problem3 {
     public static int f(int n) {

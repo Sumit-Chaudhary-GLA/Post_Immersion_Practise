@@ -1,4 +1,4 @@
-package Week1.Day6;
+package week2.Day1;
 
 public class Problem8 {
     public static void fun(int n) {
